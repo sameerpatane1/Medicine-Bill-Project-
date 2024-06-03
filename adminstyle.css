@@ -1,0 +1,40 @@
+.dropdown-item:hover{
+background-color: greenyellow;
+}
+.nav-item:hover{
+    background-color:cornflowerblue;
+    color: white;
+  border-radius: 10px;
+}
+body{
+    background-color: antiquewhite;
+}
+.form-control{
+    margin-left: 10px;
+}
+exampleInputEmail1{
+	width:400px;
+	height:70px;
+	background-color:cornflowerblue;
+	
+}
+
+#s{
+    background-color: red;
+  background-image: url("../img/Dr smile.jpg");
+    height: 340px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    border-radius: 10px;
+}
+#p{
+    background-color: palevioletred;
+ background-image: url('../img/red-white-pills.jpg');
+    height: 340px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    border-radius: 10px;
+    margin-left: -20px;
+}
